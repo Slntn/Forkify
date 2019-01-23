@@ -14,7 +14,7 @@
   },
   "keywords": [
     "Forkify",
-    "receipts"
+    "recipes"
   ],
   "author": "Anton",
   "license": "ISC",
@@ -25,7 +25,6 @@
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.3.1",
-    "babel-core": "^7.0.0",
     "babel-loader": "^8.0.5",
     "babel-preset-env": "^1.6.1",
     "html-webpack-plugin": "^3.0.7",
